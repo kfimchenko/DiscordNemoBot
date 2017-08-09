@@ -1,0 +1,9 @@
+﻿packages/
+.vs/
+.idea/
+
+**/bin/
+**/obj/
+**/publish/
+
+App.config
